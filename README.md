@@ -1,1 +1,1 @@
-# cool-app
+This is a cool app
